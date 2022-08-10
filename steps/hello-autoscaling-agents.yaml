@@ -1,0 +1,6 @@
+# Hello World pipeline steps
+---
+steps:
+  - command: 'echo "Hello"'
+  - command: 'echo "World"'
+  - command: 'echo "!"'
